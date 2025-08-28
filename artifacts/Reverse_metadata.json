@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "input",
+						"type": "string"
+					}
+				],
+				"name": "reverseString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "result",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/reverse_string.sol": "Reverse"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/reverse_string.sol": {
+			"keccak256": "0x9cb3d9be701ac89661fc3f3535f74d3f38fbcb5bb3919fc18b9d92c69d2ca8a7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bd4990ba5455631c9820cdf94c7f9d15a52071a7a68f585db1b301d1a4765fdc",
+				"dweb:/ipfs/QmT93W4LLy9MukB9gWJaBghnQhvLTt3MLMbkfJPf9vrNo7"
+			]
+		}
+	},
+	"version": 1
+}
