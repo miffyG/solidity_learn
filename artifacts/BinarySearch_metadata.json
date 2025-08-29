@@ -48,7 +48,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/binary_search.sol": "BinarySearch"
+			"contracts/task1/binary_search.sol": "BinarySearch"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -62,7 +62,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/binary_search.sol": {
+		"contracts/task1/binary_search.sol": {
 			"keccak256": "0x5fa0c14a097e22cbd039c0de93b00b1778c8a09abfc3aa4170fa40b0b4a89881",
 			"license": "MIT",
 			"urls": [
